@@ -28,3 +28,11 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+TODO:
+Install:
+1. socketio + test
+2. i18n + test
+3. axios + test
+4. back-end relationship + test
+5. convert all components to vue 3
